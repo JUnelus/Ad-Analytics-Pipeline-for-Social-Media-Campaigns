@@ -6,6 +6,7 @@ It leverages Google Cloud Platform (GCP) resources managed by Terraform and a Fa
 ## Project Overview
 
 The pipeline collects Reddit data, stores it in Google BigQuery, and provides an API endpoint to retrieve and visualize the data using FastAPI and Plotly Dash.
+![img_3.png](img_3.png)
 
 ## Requirements
 
