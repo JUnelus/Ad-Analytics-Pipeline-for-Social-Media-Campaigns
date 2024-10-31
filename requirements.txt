@@ -1,0 +1,13 @@
+tweepy
+praw
+google-cloud-storage
+google-cloud-bigquery
+apache-airflow
+requests
+fastapi
+plotly
+python-dotenv
+uvicorn
+dash
+pandas
+plotly-express
